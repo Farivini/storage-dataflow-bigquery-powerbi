@@ -63,6 +63,8 @@ nexus/
   - `transactions_file2`
 4. **Execução no Dataflow**:
 - O pipeline é executado localmente para testes e no Dataflow para produção.
+
+  
 🗂️ Esquemas das Tabelas (BigQuery)
 customers_file3
 

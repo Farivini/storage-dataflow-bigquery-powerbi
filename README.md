@@ -2,15 +2,15 @@ Fluxo de Pipeline usando GCP (Dataflow & BigQuery)
 
 📂 Estrutura do Projeto
 
-nexus/
-arquivos/          # Pasta para arquivos CSV locais
-config/            # Configurações, incluindo chave de serviço
-log/               # Arquivos de log gerados
-service/           # Funções auxiliares (e.g., upload para GCS)
-venv/              # Ambiente virtual (não incluído no Git)
-pipeline.py        # Código principal do pipeline (Apache Beam)
-app.py             # Script para simular o envio de arquivos para GCS
-requirements.txt   # Dependências do projeto
+- nexus/
+- arquivos/          # Pasta para arquivos CSV locais
+- config/            # Configurações, incluindo chave de serviço
+- log/               # Arquivos de log gerados
+- service/           # Funções auxiliares (e.g., upload para GCS)
+- venv/              # Ambiente virtual (não incluído no Git)
+- pipeline.py        # Código principal do pipeline (Apache Beam)
+- app.py             # Script para simular o envio de arquivos para GCS
+- requirements.txt   # Dependências do projeto
 
 🚀 Funcionalidades
 1. **Simulação de Produtor**:

@@ -1,5 +1,5 @@
 Fluxo de Pipeline usando GCP (Dataflow & BigQuery)
-Este projeto demonstra como criar e executar um pipeline de dados utilizando o Google Cloud Platform (GCP), com foco no processamento de arquivos CSV armazenados no Cloud Storage, tratamento dos dados com Apache Beam no Dataflow, e carregamento das tabelas tratadas no BigQuery. Além disso, o resultado final é integrado ao Power BI para visualização de dados.
+
 📂 Estrutura do Projeto
 
 nexus/

@@ -1,0 +1,56 @@
+2024-12-06 15:19:15,495 - INFO - Carregando arquivo: gs://nxs/csv_files/customers_file3.csv
+2024-12-06 15:19:16,345 - INFO - Arquivo carregado com sucesso. Visualizando os primeiros dados:
+2024-12-06 15:19:16,356 - INFO - 
+  customer_id customer_name         customer_email
+0         C01    Customer_1  customer1@example.com
+1         C02    Customer_2  customer2@example.com
+2         C03    Customer_3  customer3@example.com
+3         C04    Customer_4  customer4@example.com
+4         C05    Customer_5  customer5@example.com
+2024-12-06 15:19:16,356 - INFO - Tipos de dados originais:
+2024-12-06 15:19:16,357 - INFO - 
+customer_id       object
+customer_name     object
+customer_email    object
+dtype: object
+2024-12-06 15:19:16,360 - INFO - Linhas com valores nulos ou NaN removidas do arquivo.
+2024-12-06 15:19:16,366 - INFO - Arquivo limpo salvo em: customers_file3_cleaned.csv
+2024-12-06 15:19:16,366 - INFO - Total de registros antes: 30, depois da limpeza: 30. Registros removidos: 0
+2024-12-06 15:23:27,204 - INFO - Carregando arquivo: gs://nxs/csv_files/transactions_file1.csv
+2024-12-06 15:23:27,825 - INFO - Arquivo carregado com sucesso. Visualizando os primeiros dados:
+2024-12-06 15:23:27,832 - INFO - 
+  transaction_id customer_id transaction_date  transaction_amount transaction_status
+0          T0001         C21       2023-09-01              380.79           rejected
+1          T0002          C4       2023-09-13              951.21            pending
+2          T0003          C1       2023-09-06              734.67           rejected
+3          T0004         C24       2023-01-26              602.67           approved
+4          T0005          C9       2023-08-20              164.46           approved
+2024-12-06 15:23:27,833 - INFO - Tipos de dados originais:
+2024-12-06 15:23:27,834 - INFO - 
+transaction_id         object
+customer_id            object
+transaction_date       object
+transaction_amount    float64
+transaction_status     object
+dtype: object
+2024-12-06 15:23:27,835 - INFO - Linhas com valores nulos ou NaN removidas do arquivo.
+2024-12-06 15:23:27,846 - INFO - Arquivo limpo salvo em: /Users/vinic/OneDrive/Área de Trabalho/nexus/pipeline_cst_para_bq/arquivos_tratado/transactions_file1.csv
+2024-12-06 15:23:27,846 - INFO - Total de registros antes: 100, depois da limpeza: 100. Registros removidos: 0
+2024-12-06 15:24:46,000 - INFO - Carregando arquivo: gs://nxs/csv_files/transactions_file2.csv
+2024-12-06 15:24:46,592 - INFO - Arquivo carregado com sucesso. Visualizando os primeiros dados:
+2024-12-06 15:24:46,598 - INFO - 
+  transaction_id transaction_type   qtty   price
+0          T0001             sell   4.11  324.60
+1          T0002              buy  64.00   51.23
+2          T0003             sell  32.12   89.20
+3          T0004             sell  51.35  450.29
+4          T0005              buy  90.85  307.15
+2024-12-06 15:24:46,599 - INFO - Tipos de dados originais:
+2024-12-06 15:24:46,599 - INFO - 
+transaction_id       object
+transaction_type     object
+qtty                float64
+price               float64
+dtype: object
+2024-12-06 15:24:46,605 - INFO - Arquivo limpo salvo em: transactions_file2.csv
+2024-12-06 15:24:46,605 - INFO - Total de registros antes: 100, depois da limpeza: 100. Registros removidos: 0

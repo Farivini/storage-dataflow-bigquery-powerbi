@@ -1,0 +1,14 @@
+2024-12-06 11:06:55,599 - INFO - Arquivo 'C:\Users\vinic\OneDrive\햞ea de Trabalho\nexus\arquivos\customers_file3.csv' enviado para 'nxs/csv_files/customers_file3.csv'.
+2024-12-06 11:06:56,382 - INFO - Arquivo 'C:\Users\vinic\OneDrive\햞ea de Trabalho\nexus\arquivos\transactions_file1.csv' enviado para 'nxs/csv_files/transactions_file1.csv'.
+2024-12-06 11:06:57,157 - INFO - Arquivo 'C:\Users\vinic\OneDrive\햞ea de Trabalho\nexus\arquivos\transactions_file2.csv' enviado para 'nxs/csv_files/transactions_file2.csv'.
+2024-12-06 18:13:08,920 - WARNING - Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
+2024-12-06 18:13:12,944 - WARNING - Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
+2024-12-06 18:13:18,082 - WARNING - Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
+2024-12-06 18:13:18,082 - WARNING - Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2024-12-06 18:17:13,483 - WARNING - Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
+2024-12-06 18:17:17,401 - WARNING - Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
+2024-12-06 18:17:22,343 - WARNING - Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
+2024-12-06 18:17:22,343 - WARNING - Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2024-12-06 18:20:43,887 - INFO - Arquivo 'C:\Users\vinic\OneDrive\햞ea de Trabalho\nexus\arquivos\customers_file3.csv' enviado para 'nxs/csv_files/customers_file3.csv'.
+2024-12-06 18:20:46,397 - INFO - Arquivo 'C:\Users\vinic\OneDrive\햞ea de Trabalho\nexus\arquivos\transactions_file1.csv' enviado para 'nxs/csv_files/transactions_file1.csv'.
+2024-12-06 18:20:47,338 - INFO - Arquivo 'C:\Users\vinic\OneDrive\햞ea de Trabalho\nexus\arquivos\transactions_file2.csv' enviado para 'nxs/csv_files/transactions_file2.csv'.

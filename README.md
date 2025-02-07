@@ -1,6 +1,7 @@
 Fluxo de Pipeline usando GCP (Dataflow & BigQuery)
 
 📂 Estrutura do Projeto
+
 📊PBI 
 [Visualizar no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNWU1MTM3OWEtOTY3Yi00NjM4LWE3MGItN2E1Nzg3Y2M3OWVkIiwidCI6ImRlNjFmOTAxLTI1ZTYtNDIxZi1hMjViLTAwZWM1ZjAzYmY3NSJ9)
 
